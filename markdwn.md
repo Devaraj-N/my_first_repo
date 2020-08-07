@@ -1,7 +1,8 @@
 #Large Heading
-##Smaller one
 
-code in middle
+##Another one
+
+**code** `in`  *middle*
 
 ```
 Block code
